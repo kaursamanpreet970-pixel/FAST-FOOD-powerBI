@@ -1,0 +1,201 @@
+Order_ID,Chain_Name,Food_Item_Type,City,Customer_Age,Gender,Order_Mode,Time_Slot,Veg_NonVeg,Item_Price_INR,Discount_Percent,Quantity,Total_Bill_INR,Payment_Mode,Customer_Rating,Delivery_Time_Min,Repeat_Visit,Loyalty_Points,Order_Date,Coupon_Used
+FF20000,Barbeque Nation,Fried Chicken,Surat,42.0,Male,Swiggy,breakfast,NON-VEG,399,20,1,319.2,UPI,,60,Y,100,3-5-2022,Y
+FF20001,Burger King,Biryani,Pune,40.0,F,Takeaway,DINNER,vegan,599.0,0,1,599.0,Cash,,40,No,150,01/01/2024,Yes
+FF20002,Haldiram's,Sandwich,Pune,37.0,MALE,DINE-IN,DINNER,Non-Veg,149.0,10,2,268.2,Debit Card,2,20,YES,200,28.6.2024,Yes
+FF20003,KFC,Burger,Delhi,42,male,zomato,DINNER,non-veg,199,10,3,537.3,CASH,4,45,N,NA,16-6-2021,N
+FF20004,Fasos,Fried Chicken,Bangalore,26.0,female,Swiggy,breakfast,Vegan,799.0,0,3,2397.0,Credit Card,3,25,0,0,21.10.2022,N
+FF20005,Wow! Momo,Momos,Ahmedabad,16.0,Male,Swiggy,Lunch,vegan,₹499,30,4,1397.2,wallet,NA,NA,YES,200,25.7.2020,Y
+FF20006,Burger King,Combo,Pune,25,male,takeaway,Late Night,non-veg,199,20%,3,477.6,CASH,5,25,no,0,06/06/2024,Y
+FF20007,Box8,Pizza,Hyderabad,38.0,Female,dine-in,Dinner,vegan,499.0,20%,1,399.2,Credit Card,4,25,Y,50,15/11/2019,0
+FF20008,Burger King,Fried Chicken,Delhi,16,male,dine-in,Late Night,veg,99,30,4,277.2,upi,4,30 min,0,100,21.12.2023,Y
+FF20009,Wow! Momo,Momos,Pune,49,MALE,Dine-In,Evening Snack,VEG,Rs.149,25,1,111.75,Debit Card,5,45,NO,100,2019-03-16,NO
+FF20010,McDonald's,Burger,Chennai,31.0,MALE,delivery,DINNER,veg,Rs.199,0,4,796.0,Credit Card,4,45 min,no,50,20/12/2024,YES
+FF20011,McDonald's,Burger,Surat,41.0,female,Home Delivery,Evening Snack,vegan,149,25,3,335.25,UPI,5,45,YES,200,22/06/2022,1
+FF20012,Fasos,Sandwich,Delhi,19,Female,delivery,Lunch,Non-Veg,₹599,30%,4,1677.2,UPI,4,60,Yes,0,7.12.2019,0
+FF20013,Barbeque Nation,Combo,Delhi, 48,Female,dine-in,breakfast,non-veg,399,25,1,299.25,Cash,1,45 min,YES,0,13/11/2022,1
+FF20014,Domino's,Pizza,Pune,44.0,male,zomato,Breakfast,NON-VEG,Rs.999,20,1,799.2,wallet,5,45 min,1,200,25/09/2021,Yes
+FF20015,Wow! Momo,Fries,Kolkata,50.0,male,Swiggy,Evening Snack,VEG,499,20%,1,399.2,Cash,2,NA,yes,100,27-4-2022,no
+FF20016,Subway,Biryani,Kolkata,35,male,Zomato,breakfast,VEG,149,25%,4,447.0,Credit Card,4,40,no,200,3-10-2024,No
+FF20017,Subway,Sandwich,Pune,22.0,female,Zomato,breakfast,NON-VEG,149,30,4,417.2,Debit Card,3,20,YES,NA,08/12/2022,0
+FF20018,Subway,Biryani,Surat,27.0,female,Swiggy,Dinner,Veg,149,25,2,223.5,CASH,5,35,Yes,150,6/8/2019,No
+FF20019,Burger King,Fried Chicken,Delhi,41,male,Swiggy,Breakfast,Veg,399,15,2,678.3,wallet,4,35,YES,0,4.4.2020,yes
+FF20020,Haldiram's,Wrap,Jaipur,22,F,Takeaway,DINNER,non-veg,249,15,1,211.65,upi,5,45 min,No,100,9.8.2021,Yes
+FF20021,Box8,Biryani,Pune,45.0,Female,dine-in,Evening Snack,vegan,499,30%,2,698.6,Debit Card,4,30,0,0,3.5.2024,1
+FF20022,Haldiram's,Sandwich,Hyderabad, 33,Male,Swiggy,Dinner,VEG,99.0,0%,3,297.0,wallet,,NA,Y,100,8-8-2019,0
+FF20023,Haldiram's,Dessert,Ahmedabad,36,female,dine-in,breakfast,Veg,999,10,4,3596.4,wallet,3,30,Yes,200,2/15/2023,YES
+FF20024,Haldiram's,Fries,Pune, 28,male,Dine-In,Late Night,Veg,Rs.399,0,1,399.0,CASH,NA,30,Yes,50,2021-06-12,no
+FF20025,Fasos,Dessert,Ahmedabad,35.0,M,Swiggy,Breakfast,vegan,599.0,10%,1,539.1,Wallet,NA,40,Yes,50,27.10.2023,No
+FF20026,KFC,Fries,Pune, 21,Male,DINE-IN,DINNER,Veg,99.0,15,4,336.6,CASH,1,30 min,No,50,7-2-2021,NO
+FF20027,Pizza Hut,Burger,Mumbai,49,Female,Swiggy,Breakfast,non-veg,399,30%,1,279.3,Debit Card,2,30,NO,0,11/01/2023,no
+FF20028,Burger King,Momos,Pune, 38,Male,Takeaway,Evening Snack,veg,Rs.999,10,4,3596.4,UPI,5,40,yes,50,28.3.2021,NO
+FF20029,Burger King,Burger,Pune,35.0,F,delivery,breakfast,Vegan,149,15%,1,126.65,wallet,1,25,Yes,0,9/26/2019,Yes
+FF20030,Pizza Hut,Fried Chicken,Bangalore,25,Female,Zomato,lunch,veg,999,25,2,1498.5,CASH,4,45,yes,0,2019-10-25,NO
+FF20031,Domino's,Sandwich,Delhi,49.0,M,dine-in,Evening Snack,Non-Veg,299,15%,2,508.3,Cash,,60,1,NA,03/04/2024,no
+FF20032,Subway,Sandwich,Pune,20,male,delivery,Dinner,Vegan,149,10%,2,268.2,wallet,5,30 min,NO,0,2/19/2023,0
+FF20033,Fasos,Burger,Kolkata,20,Female,Dine-In,Breakfast,vegan,799,10%,3,2157.3,Cash,,25,N,0,1/5/2021,0
+FF20034,Haldiram's,Sandwich,Kolkata,23,MALE,Swiggy,Dinner,Vegan,₹399,30,1,279.3,Credit Card,,30,N,0,7/19/2024,Y
+FF20035,Wow! Momo,Burger,Chennai,46,male,Home Delivery,Breakfast,Non-Veg,Rs.999,25,3,2247.75,Debit Card,5,30 min,YES,0,11/14/2023,no
+FF20036,Wow! Momo,Momos,Ahmedabad,45,MALE,Home Delivery,Breakfast,Veg,149,0%,3,447.0,upi,NA,60,Y,NA,2022-08-08,1
+FF20037,Domino's,Sandwich,Pune,24,female,Takeaway,Breakfast,vegan,₹199,25,3,447.75,Credit Card,,35,1,150,14/09/2021,no
+FF20038,Pizza Hut,Wrap,Chennai, 42,Male,DINE-IN,lunch,Non-Veg,Rs.399,15%,2,678.3,Wallet,5,25,No,NA,10/21/2021,YES
+FF20039,McDonald's,Sandwich,Ahmedabad,15.0,Male,zomato,Evening Snack,Veg,299.0,10,2,538.2,Credit Card,3,30,No,50,4.7.2020,0
+FF20040,Haldiram's,Fries,Pune,25.0,male,Takeaway,lunch,non-veg,Rs.249,25,1,186.75,Cash,1,NA,Yes,200,9-9-2021,YES
+FF20041,Domino's,Dessert,Surat,36,female,Swiggy,breakfast,Vegan,799,20,1,639.2,Debit Card,4,30,No,NA,12/12/2024,Yes
+FF20042,McDonald's,Dessert,Bangalore, 29,Female,Home Delivery,Evening Snack,VEG,99.0,20,2,158.4,wallet,2,30,No,100,27-6-2024,1
+FF20043,Wow! Momo,Momos,Delhi,39.0,M,DINE-IN,breakfast,veg,₹199,0,3,597.0,Wallet,4,NA,Y,200,2021-12-21,1
+FF20044,Domino's,Pizza,Pune,36,F,Home Delivery,DINNER,veg,249.0,20,2,398.4,wallet,5,35,no,50,2/23/2019,yes
+FF20045,Pizza Hut,Fries,Jaipur,37,M,delivery,lunch,Veg,₹499,15,1,424.15,Credit Card,3,30 min,0,0,28.9.2021,No
+FF20046,KFC,Biryani,Hyderabad, 48,M,delivery,Evening Snack,NON-VEG,249.0,0,2,498.0,CASH,5,30 min,No,0,12-8-2022,Yes
+FF20047,Burger King,Burger,Mumbai,45,M,Dine-In,Evening Snack,VEG,149,20,1,119.2,UPI,5,35,no,200,2/27/2024,yes
+FF20048,Subway,Pizza,Bangalore,41,female,Zomato,Evening Snack,Non-Veg,Rs.599,15%,1,509.15,Credit Card,5,30 min,YES,150,11/17/2021,YES
+FF20049,Biryani By Kilo,Biryani,Jaipur,49,Male,Takeaway,Dinner,veg,Rs.249,20,2,398.4,CASH,4,20,no,50,2019-11-24,YES
+FF20050,Fasos,Fries,Bangalore,32.0,F,zomato,DINNER,Non-Veg,999,10,1,899.1,Credit Card,4,45 min,1,100,5.8.2020,Yes
+FF20051,Haldiram's,Biryani,Kolkata,46,male,Dine-In,breakfast,veg,799,30%,3,1677.9,Cash,,60,NO,NA,12/12/2021,No
+FF20052,Wow! Momo,Fried Chicken,Ahmedabad,15.0,M,zomato,Evening Snack,Non-Veg,Rs.99,20,4,316.8,Credit Card,4,NA,no,50,2021-09-20,YES
+FF20053,Biryani By Kilo,Dessert,Bangalore,34,M,Swiggy,Breakfast,vegan,₹799,20,3,1917.6,Cash,4,NA,Y,200,8.8.2023,No
+FF20054,Biryani By Kilo,Fries,Delhi,40.0,Male,Swiggy,Breakfast,Vegan,399,25,4,1197.0,CASH,5,20,YES,150,24.2.2020,Y
+FF20055,Pizza Hut,Biryani,Kolkata,19.0,Female,Swiggy,Lunch,Veg,149,30%,2,208.6,Cash,,NA,no,NA,9/8/2023,1
+FF20056,Biryani By Kilo,Fries,Chennai, 41,Female,takeaway,Dinner,Non-Veg,299,15,2,508.3,Cash,4,35,N,0,3-3-2022,yes
+FF20057,Fasos,Combo,Ahmedabad,17,Female,DINE-IN,breakfast,Non-Veg,99,25,1,74.25,Wallet,5,45,no,50,5/27/2023,no
+FF20058,Box8,Pizza,Bangalore, 31,female,takeaway,Evening Snack,veg,299,25,3,672.75,wallet,5,35,1,200,2022-11-13,No
+FF20059,Biryani By Kilo,Dessert,Ahmedabad,33.0,Female,zomato,Late Night,veg,₹149,10,3,402.3,Debit Card,2,40,yes,150,11/11/2020,Y
+FF20060,Domino's,Momos,Pune,29,F,zomato,Evening Snack,Vegan,149,15%,1,126.65,wallet,5,45,Y,0,9/15/2022,No
+FF20061,Barbeque Nation,Sandwich,Kolkata,43,Female,Takeaway,Late Night,vegan,799.0,20%,2,1278.4,UPI,1,35,No,NA,8-10-2022,N
+FF20062,KFC,Pizza,Delhi,38.0,Female,Zomato,Breakfast,non-veg,Rs.249,15%,2,423.3,CASH,5,40,1,50,2/28/2023,Y
+FF20063,Box8,Combo,Surat,32.0,Male,DINE-IN,DINNER,vegan,599,25,2,898.5,wallet,2,30 min,YES,200,2020-11-14,No
+FF20064,Box8,Pizza,Pune,42.0,female,Dine-In,Lunch,Vegan,599,25,2,898.5,Credit Card,NA,30,N,0,05/04/2019,YES
+FF20065,Burger King,Wrap,Kolkata,20.0,Female,dine-in,DINNER,Veg,999.0,15,1,849.15,Wallet,2,25,Y,100,2021-05-19,no
+FF20066,Fasos,Burger,Mumbai,45,Female,Swiggy,DINNER,Veg,99,0,3,297.0,Cash,4,60,NO,200,17.10.2024,1
+FF20067,McDonald's,Dessert,Bangalore,34,Male,zomato,Evening Snack,Veg,249,0,2,498.0,Cash,,45,YES,200,3-1-2022,NO
+FF20068,Domino's,Sandwich,Ahmedabad,35,F,Dine-In,Lunch,VEG,199.0,15,2,338.3,Credit Card,2,30 min,no,50,10/9/2024,Yes
+FF20069,Biryani By Kilo,Biryani,Bangalore,38,F,Dine-In,DINNER,NON-VEG,299.0,25,2,448.5,upi,,45 min,no,0,06/02/2019,Yes
+FF20070,Subway,Fries,Kolkata,42,female,Takeaway,Lunch,NON-VEG,799.0,0%,4,3196.0,UPI,NA,20,NO,100,2019-12-24,no
+FF20071,Burger King,Pizza,Hyderabad,29,M,DINE-IN,lunch,Vegan,299,30%,4,837.2,Wallet,3,60,YES,NA,4/16/2024,0
+FF20072,Pizza Hut,Sandwich,Ahmedabad,36.0,F,Home Delivery,Late Night,non-veg,149,20,1,119.2,upi,5,45 min,Yes,0,23/09/2024,YES
+FF20073,Box8,Pizza,Surat,36.0,M,Dine-In,Breakfast,non-veg,399.0,25%,2,598.5,Wallet,4,40,0,0,15-5-2019,1
+FF20074,Barbeque Nation,Dessert,Bangalore,43,M,Zomato,breakfast,veg,999.0,15%,4,3396.6,UPI,4,25,0,100,17/11/2019,Y
+FF20075,Haldiram's,Wrap,Chennai,50.0,M,zomato,DINNER,vegan,₹999,20,4,3196.8,upi,5,60,No,NA,2019-12-25,1
+FF20076,Barbeque Nation,Burger,Surat,45.0,Female,Dine-In,Evening Snack,veg,399,25,1,299.25,UPI,,45 min,Y,100,05/03/2020,0
+FF20077,Fasos,Pizza,Bangalore,18,Male,Home Delivery,Lunch,veg,799,30%,2,1118.6,CASH,4,NA,yes,NA,17/10/2021,yes
+FF20078,KFC,Fried Chicken,Bangalore,25.0,M,takeaway,DINNER,Veg,249,0,1,249.0,Credit Card,3,25,1,200,10/6/2023,Y
+FF20079,Barbeque Nation,Momos,Delhi,30.0,MALE,DINE-IN,lunch,non-veg,Rs.249,30,4,697.2,wallet,5,45,Y,50,3.11.2022,NO
+FF20080,Fasos,Biryani,Mumbai,18,male,Swiggy,Evening Snack,non-veg,149.0,15,3,379.95,upi,5,45 min,yes,0,15-10-2020,yes
+FF20081,Pizza Hut,Momos,Kolkata,36.0,M,dine-in,Late Night,VEG,999,25%,1,749.25,Wallet,1,45 min,no,50,2021-01-08,Yes
+FF20082,Fasos,Fried Chicken,Pune,20.0,male,dine-in,DINNER,non-veg,299,10,4,1076.4,Wallet,NA,30 min,0,NA,8/15/2020,0
+FF20083,Fasos,Momos,Chennai, 41,Male,takeaway,Breakfast,VEG,399,0,4,1596.0,wallet,5,45,NO,150,24.9.2022,0
+FF20084,Wow! Momo,Combo,Chennai,42,Male,dine-in,Evening Snack,NON-VEG,799.0,15,1,679.15,CASH,5,25,N,100,7/7/2020,yes
+FF20085,Pizza Hut,Wrap,Pune,43.0,female,takeaway,Dinner,VEG,149,15,3,379.95,wallet,5,25,yes,0,18.12.2021,Y
+FF20086,McDonald's,Momos,Surat,22.0,male,Zomato,Lunch,vegan,Rs.149,20%,3,357.6,Wallet,5,40,Yes,0,7/4/2019,NO
+FF20087,KFC,Pizza,Jaipur,25,male,DINE-IN,Dinner,vegan,₹199,0,1,199.0,Cash,2,30 min,no,NA,12.4.2021,1
+FF20088,Biryani By Kilo,Wrap,Pune,44,Male,Dine-In,breakfast,veg,599,15%,3,1527.45,Wallet,3,NA,N,0,11/07/2022,yes
+FF20089,KFC,Biryani,Surat,25,Female,Swiggy,lunch,vegan,299.0,25%,3,672.75,Debit Card,4,30,yes,NA,4-7-2020,YES
+FF20090,Haldiram's,Sandwich,Jaipur,19,Female,Zomato,Lunch,NON-VEG,149,10,3,402.3,Debit Card,5,30 min,1,150,2020-02-03,1
+FF20091,Wow! Momo,Burger,Pune,48.0,Female,delivery,Evening Snack,non-veg,Rs.399,20,4,1276.8,Debit Card,NA,40,no,0,2022-06-15,YES
+FF20092,Fasos,Burger,Surat,19,M,Home Delivery,Breakfast,Vegan,799,10,3,2157.3,upi,5,45,Y,150,2020-10-16,N
+FF20093,Wow! Momo,Fries,Hyderabad, 37,M,Dine-In,lunch,veg,99.0,0,4,396.0,UPI,5,20,NO,150,9-11-2023,no
+FF20094,Subway,Biryani,Kolkata,39,male,Takeaway,DINNER,NON-VEG,999,20,2,1598.4,Debit Card,5,45 min,No,50,11/09/2023,0
+FF20095,Fasos,Fried Chicken,Pune,24,MALE,Dine-In,breakfast,veg,₹999,25,3,2247.75,Debit Card,,45 min,No,0,23.12.2023,0
+FF20096,Pizza Hut,Sandwich,Delhi,16.0,MALE,DINE-IN,breakfast,vegan,₹149,15,3,379.95,wallet,1,45 min,no,NA,8.12.2020,yes
+FF20097,KFC,Dessert,Chennai, 19,M,dine-in,DINNER,NON-VEG,Rs.399,0,1,399.0,CASH,4,NA,Yes,150,2019-06-22,Y
+FF20098,KFC,Momos,Delhi,23,F,dine-in,DINNER,Veg,799,10,4,2876.4,upi,5,30 min,Yes,0,18-11-2019,yes
+FF20099,Biryani By Kilo,Sandwich,Surat,19.0,female,Dine-In,Breakfast,non-veg,149,30,3,312.9,Credit Card,4,30 min,no,50,9.12.2019,1
+FF20100,Burger King,Burger,Bangalore,50.0,F,delivery,Evening Snack,Vegan,299,25,3,672.75,upi,4,35,YES,NA,11/21/2020,NO
+FF20101,Domino's,Wrap,Ahmedabad,23,Male,Zomato,DINNER,Veg,499,15,4,1696.6,Cash,2,NA,Yes,NA,25/10/2023,YES
+FF20102,KFC,Combo,Pune,37.0,F,Zomato,Evening Snack,Non-Veg,149,15,4,506.6,CASH,NA,60,No,150,11/7/2019,yes
+FF20103,Box8,Combo,Kolkata, 43,M,Takeaway,Late Night,non-veg,₹149,20,1,119.2,UPI,5,40,no,200,22-5-2020,YES
+FF20104,Wow! Momo,Fries,Chennai,47.0,male,Zomato,Breakfast,Non-Veg,249,20,1,199.2,upi,2,45,YES,200,14-7-2020,no
+FF20105,Wow! Momo,Wrap,Mumbai, 23,MALE,dine-in,Breakfast,veg,Rs.799,25%,2,1198.5,CASH,1,35,NO,200,5.1.2024,N
+FF20106,Haldiram's,Pizza,Hyderabad,18,female,Dine-In,Lunch,Vegan,₹499,15,4,1696.6,Wallet,4,30,Yes,100,14-12-2020,Y
+FF20107,Barbeque Nation,Combo,Bangalore,16,Female,Takeaway,Breakfast,veg,Rs.199,30%,3,417.9,Credit Card,5,45 min,YES,NA,16-11-2022,0
+FF20108,Biryani By Kilo,Combo,Surat,42.0,MALE,Dine-In,DINNER,vegan,99,30,2,138.6,UPI,2,30,NO,150,9.12.2020,YES
+FF20109,Fasos,Fried Chicken,Kolkata,25,F,Takeaway,Late Night,vegan,199.0,25,2,298.5,Debit Card,5,20,YES,200,2024-12-16,YES
+FF20110,Biryani By Kilo,Biryani,Delhi,21,M,zomato,Late Night,Non-Veg,199.0,20,3,477.6,Wallet,2,45,Y,50,25/11/2022,Yes
+FF20111,Fasos,Biryani,Jaipur,31,female,dine-in,Late Night,NON-VEG,199,0,1,199.0,UPI,4,30 min,1,200,23-11-2019,0
+FF20112,Box8,Dessert,Kolkata, 28,Female,Zomato,DINNER,Vegan,₹299,15,4,1016.6,Credit Card,2,45 min,1,50,11/13/2024,Y
+FF20113,Haldiram's,Combo,Mumbai, 39,F,Home Delivery,lunch,NON-VEG,99,30,4,277.2,UPI,,35,1,0,09/09/2021,YES
+FF20114,KFC,Combo,Hyderabad,18,female,Zomato,breakfast,NON-VEG,₹799,25%,4,2397.0,Cash,,45,YES,0,12-3-2023,Yes
+FF20115,Haldiram's,Momos,Kolkata,25,F,Home Delivery,Late Night,veg,799,0,3,2397.0,Cash,1,30,No,50,14-11-2021,YES
+FF20116,Biryani By Kilo,Dessert,Jaipur,41,Male,Swiggy,breakfast,VEG,199,20,3,477.6,Credit Card,4,NA,N,0,11.3.2023,YES
+FF20117,Domino's,Burger,Chennai, 34,M,dine-in,breakfast,veg,Rs.799,20,2,1278.4,Credit Card,NA,20,1,100,23/07/2022,YES
+FF20118,Subway,Combo,Surat,20,Male,DINE-IN,breakfast,vegan,Rs.199,15%,4,676.6,upi,1,NA,1,100,26.7.2019,Y
+FF20119,Box8,Sandwich,Hyderabad,42,Male,Dine-In,Late Night,vegan,Rs.299,25%,3,672.75,wallet,,25,YES,50,2019-01-21,yes
+FF20120,Domino's,Biryani,Kolkata,30,male,Dine-In,breakfast,veg,₹199,10%,1,179.1,Credit Card,,20,Yes,50,3/8/2024,no
+FF20121,Wow! Momo,Biryani,Bangalore,18,MALE,dine-in,Late Night,veg,799,25,1,599.25,CASH,NA,25,Y,200,9.10.2023,NO
+FF20122,Barbeque Nation,Wrap,Pune,43.0,Female,Home Delivery,Breakfast,veg,299.0,30,1,209.3,Debit Card,4,60,NO,100,02/01/2023,No
+FF20123,Fasos,Combo,Kolkata,48.0,Male,Zomato,Late Night,non-veg,249.0,0,1,249.0,Cash,5,25,1,200,15-5-2024,N
+FF20124,Box8,Fried Chicken,Delhi,44.0,Male,Swiggy,Evening Snack,Vegan,249,0,4,996.0,wallet,1,35,no,200,12-12-2021,No
+FF20125,Pizza Hut,Pizza,Bangalore, 16,F,Dine-In,Late Night,non-veg,299,25,3,672.75,wallet,2,20,Y,0,2021-04-14,0
+FF20126,KFC,Momos,Hyderabad,46,Male,DINE-IN,Late Night,Non-Veg,149,10,1,134.1,upi,5,30,YES,100,2022-02-22,NO
+FF20127,KFC,Sandwich,Delhi,26,Male,DINE-IN,DINNER,vegan,₹99,10%,1,89.1,upi,5,30 min,0,50,6/12/2023,Y
+FF20128,Biryani By Kilo,Pizza,Mumbai,47,female,Zomato,DINNER,Vegan,249.0,0,4,996.0,Debit Card,4,35,no,150,8-9-2024,Yes
+FF20129,Biryani By Kilo,Sandwich,Chennai,28.0,female,delivery,lunch,Vegan,₹199,30%,3,417.9,Credit Card,,30,yes,100,7-2-2022,Y
+FF20130,Box8,Wrap,Delhi,22,MALE,delivery,Dinner,Veg,599,0,2,1198.0,CASH,2,40,NO,NA,2020-04-02,0
+FF20131,Burger King,Fries,Chennai,28,Male,delivery,DINNER,non-veg,149.0,10,4,536.4,Wallet,1,NA,YES,0,9/14/2022,No
+FF20132,Pizza Hut,Combo,Jaipur,38,MALE,Swiggy,DINNER,vegan,Rs.99,15,1,84.15,UPI,4,40,no,NA,23.2.2020,yes
+FF20133,Burger King,Pizza,Kolkata,27.0,Male,DINE-IN,Lunch,non-veg,799.0,0,3,2397.0,Debit Card,2,35,no,100,6/17/2022,no
+FF20134,Burger King,Biryani,Kolkata,25.0,MALE,Zomato,breakfast,veg,₹199,25%,4,597.0,Debit Card,2,20,1,150,25.9.2021,Yes
+FF20135,Fasos,Sandwich,Chennai, 34,male,zomato,lunch,veg,999,25,1,749.25,Credit Card,5,45,NO,100,10/11/2019,Yes
+FF20136,Biryani By Kilo,Burger,Surat,20.0,M,Home Delivery,Dinner,veg,999,10%,3,2697.3,Credit Card,4,60,Yes,0,1/15/2020,YES
+FF20137,Barbeque Nation,Momos,Kolkata, 43,male,delivery,Breakfast,NON-VEG,799.0,25,1,599.25,Credit Card,NA,30 min,1,NA,9/4/2024,Yes
+FF20138,Domino's,Combo,Ahmedabad,36,male,Takeaway,Late Night,NON-VEG,399,10%,4,1436.4,upi,5,25,Yes,0,4.2.2022,YES
+FF20139,Fasos,Pizza,Delhi,18.0,male,Swiggy,Late Night,Veg,599,20%,3,1437.6,wallet,3,20,NO,NA,16/07/2022,Y
+FF20140,Burger King,Sandwich,Jaipur,29,M,delivery,breakfast,vegan,Rs.799,20,2,1278.4,Wallet,NA,40,0,0,2020-08-01,YES
+FF20141,Biryani By Kilo,Momos,Pune, 19,MALE,DINE-IN,breakfast,Vegan,799,20,3,1917.6,UPI,,45,1,100,13-9-2024,YES
+FF20142,Burger King,Pizza,Bangalore,15,F,Swiggy,breakfast,Vegan,249.0,15%,1,211.65,CASH,5,20,NO,100,28-1-2022,no
+FF20143,Box8,Sandwich,Delhi,20,Female,Home Delivery,breakfast,vegan,199,15,2,338.3,upi,,NA,No,150,10.2.2021,Yes
+FF20144,Fasos,Sandwich,Delhi,25,M,dine-in,DINNER,Non-Veg,799.0,15,1,679.15,Credit Card,4,45 min,1,50,2023-03-19,N
+FF20145,KFC,Fried Chicken,Chennai,39.0,male,Dine-In,Breakfast,veg,249,10,3,672.3,Credit Card,5,40,yes,150,2021-08-05,1
+FF20146,Wow! Momo,Dessert,Delhi, 18,male,Dine-In,Late Night,NON-VEG,149,15,1,126.65,CASH,3,NA,Y,50,27-3-2019,no
+FF20147,Pizza Hut,Wrap,Jaipur,22.0,female,delivery,lunch,non-veg,999,10,4,3596.4,upi,2,45 min,yes,NA,10/7/2019,Y
+FF20148,Barbeque Nation,Fries,Surat,47.0,M,Zomato,Late Night,Vegan,499,20,1,399.2,CASH,3,30 min,Yes,200,13-11-2022,0
+FF20149,Haldiram's,Sandwich,Ahmedabad,31.0,MALE,dine-in,Lunch,non-veg,Rs.599,15%,1,509.15,Debit Card,5,45,Y,0,2022-06-04,N
+FF20150,Wow! Momo,Fries,Jaipur,17,Male,DINE-IN,Dinner,veg,499.0,0,4,1996.0,Wallet,4,35,No,150,9.3.2019,0
+FF20151,Domino's,Fries,Surat,15.0,Male,delivery,lunch,Vegan,799,30%,4,2237.2,Wallet,NA,20,no,0,15.5.2022,No
+FF20152,Subway,Burger,Kolkata,44,male,Home Delivery,DINNER,vegan,Rs.99,15,4,336.6,wallet,5,45,0,150,26-9-2024,Yes
+FF20153,Box8,Dessert,Ahmedabad,47,Female,Swiggy,Lunch,vegan,499,30,3,1047.9,wallet,4,NA,N,200,24/08/2024,1
+FF20154,Barbeque Nation,Biryani,Delhi,35.0,Female,Zomato,lunch,Veg,Rs.499,10,3,1347.3,wallet,5,20,0,100,6/14/2023,YES
+FF20155,Domino's,Sandwich,Pune,40.0,Female,DINE-IN,Late Night,non-veg,399.0,0,2,798.0,Debit Card,5,NA,0,200,5/15/2020,no
+FF20156,KFC,Momos,Chennai,34.0,female,DINE-IN,Evening Snack,vegan,599,0%,2,1198.0,UPI,5,30 min,no,100,03/01/2024,no
+FF20157,Haldiram's,Pizza,Bangalore,29.0,M,Dine-In,Lunch,veg,499,30,4,1397.2,UPI,4,60,0,50,2022-04-07,NO
+FF20158,McDonald's,Biryani,Kolkata, 25,M,takeaway,Late Night,NON-VEG,149,15,3,379.95,CASH,NA,30 min,YES,0,2023-02-15,NO
+FF20159,Subway,Dessert,Delhi,26,Female,Swiggy,Lunch,non-veg,₹999,25%,1,749.25,UPI,2,40,yes,0,11/9/2019,Y
+FF20160,Pizza Hut,Wrap,Ahmedabad,24.0,Male,Zomato,Late Night,Vegan,399,15,2,678.3,Credit Card,5,60,1,50,2023-01-22,NO
+FF20161,Barbeque Nation,Momos,Kolkata,22.0,male,dine-in,Lunch,non-veg,799,25,3,1797.75,Debit Card,2,30,no,150,17/10/2019,0
+FF20162,Subway,Fries,Surat,27.0,female,takeaway,lunch,vegan,399,10%,4,1436.4,Debit Card,4,20,no,0,2021-06-05,0
+FF20163,Barbeque Nation,Burger,Delhi,26,M,Home Delivery,DINNER,Veg,599,0%,3,1797.0,CASH,4,45 min,yes,NA,2022-12-17,No
+FF20164,McDonald's,Dessert,Hyderabad,48.0,M,delivery,Breakfast,non-veg,249,15,3,634.95,Wallet,4,45,Yes,0,15-3-2024,yes
+FF20165,Box8,Dessert,Kolkata,27,female,Dine-In,Dinner,Non-Veg,₹299,25%,2,448.5,upi,5,25,no,100,21.5.2020,0
+FF20166,KFC,Wrap,Jaipur,20,F,Zomato,DINNER,vegan,249.0,15%,4,846.6,UPI,5,20,YES,50,2021-04-02,Y
+FF20167,Box8,Momos,Ahmedabad,29.0,Female,Swiggy,Lunch,non-veg,99,10,1,89.1,Cash,,60,1,0,27/06/2019,Y
+FF20168,Fasos,Fries,Mumbai,16.0,Male,Takeaway,breakfast,non-veg,599,0%,4,2396.0,Credit Card,5,45,No,150,15/09/2022,1
+FF20169,Wow! Momo,Biryani,Hyderabad,50,Female,Zomato,lunch,VEG,Rs.799,15%,1,679.15,Wallet,,20,N,150,5/6/2020,Yes
+FF20170,Box8,Fries,Delhi,25.0,male,dine-in,Breakfast,NON-VEG,₹399,30%,3,837.9,UPI,4,60,Yes,0,4/11/2023,No
+FF20171,Box8,Biryani,Kolkata,21,F,DINE-IN,lunch,non-veg,799,0,1,799.0,Debit Card,5,25,0,50,3.1.2020,Yes
+FF20172,Fasos,Sandwich,Ahmedabad,37.0,F,DINE-IN,Breakfast,Vegan,99,10%,2,178.2,CASH,5,30 min,1,0,2023-02-15,Y
+FF20173,McDonald's,Biryani,Chennai, 23,F,Swiggy,lunch,Veg,599,10%,1,539.1,Wallet,5,60,YES,200,27-4-2024,N
+FF20174,KFC,Dessert,Hyderabad, 16,Male,Takeaway,Breakfast,veg,Rs.999,15%,2,1698.3,upi,2,60,N,150,23/10/2024,N
+FF20175,KFC,Sandwich,Hyderabad,33.0,male,Swiggy,Breakfast,Non-Veg,249.0,25,1,186.75,Credit Card,1,60,No,0,2022-01-10,yes
+FF20176,Biryani By Kilo,Biryani,Pune,27.0,Female,Zomato,Breakfast,vegan,99.0,15,1,84.15,UPI,3,60,YES,200,10/12/2023,N
+FF20177,Barbeque Nation,Wrap,Jaipur,26.0,F,DINE-IN,lunch,Veg,299,30,1,209.3,UPI,5,30,NO,50,03/09/2023,No
+FF20178,Wow! Momo,Sandwich,Surat, 16,Male,dine-in,DINNER,veg,199.0,30,2,278.6,Cash,,40,1,100,28.4.2019,YES
+FF20179,McDonald's,Biryani,Kolkata,19,male,Takeaway,breakfast,VEG,Rs.399,10%,3,1077.3,Debit Card,,35,1,100,6/10/2019,No
+FF20180,Barbeque Nation,Dessert,Jaipur,49,Male,takeaway,Evening Snack,non-veg,99,30,2,138.6,Debit Card,NA,60,NO,0,27/03/2021,1
+FF20181,Box8,Wrap,Pune,42,F,Swiggy,lunch,NON-VEG,₹149,0,2,298.0,CASH,3,25,No,150,2019-01-28,NO
+FF20182,KFC,Wrap,Chennai,50,female,takeaway,Evening Snack,NON-VEG,₹99,30%,4,277.2,upi,3,30 min,Y,50,19.4.2024,No
+FF20183,Wow! Momo,Pizza,Mumbai,35.0,female,zomato,Late Night,Non-Veg,Rs.399,0,3,1197.0,CASH,,45 min,N,50,2023-04-02,1
+FF20184,Barbeque Nation,Biryani,Chennai, 37,male,Dine-In,Breakfast,Veg,599.0,20,4,1916.8,Debit Card,3,60,0,50,4/14/2024,YES
+FF20185,Domino's,Pizza,Chennai, 23,MALE,Takeaway,Dinner,VEG,799,20%,4,2556.8,Debit Card,5,NA,N,0,21/09/2019,No
+FF20186,Biryani By Kilo,Fried Chicken,Hyderabad,33,male,Zomato,Dinner,Vegan,99,0,1,99.0,Cash,2,25,YES,100,11/3/2024,no
+FF20187,Domino's,Biryani,Pune,41.0,Female,zomato,breakfast,non-veg,Rs.149,15,3,379.95,Credit Card,5,20,No,0,1/23/2023,Y
+FF20188,Barbeque Nation,Momos,Delhi,23,Female,Home Delivery,DINNER,Veg,599.0,30%,1,419.3,UPI,4,25,yes,100,20/05/2020,no
+FF20189,Subway,Biryani,Kolkata,18.0,male,zomato,Breakfast,veg,₹799,25%,3,1797.75,upi,NA,25,No,0,13-6-2019,0
+FF20190,Pizza Hut,Biryani,Delhi, 44,F,Takeaway,Dinner,non-veg,199.0,0%,1,199.0,Wallet,4,30 min,1,0,19/11/2022,Yes
+FF20191,Wow! Momo,Momos,Mumbai, 47,Female,Home Delivery,lunch,NON-VEG,149.0,0,3,447.0,Wallet,3,60,YES,50,2-10-2019,N
+FF20192,Biryani By Kilo,Burger,Kolkata,27,Male,takeaway,breakfast,veg,799,0,3,2397.0,Cash,4,45,no,NA,9.5.2024,Yes
+FF20193,Haldiram's,Burger,Mumbai,31.0,F,Swiggy,Lunch,Vegan,249,15,1,211.65,Debit Card,5,30 min,N,150,2019-12-20,YES
+FF20194,Subway,Momos,Bangalore,30.0,MALE,DINE-IN,breakfast,Non-Veg,99.0,10,3,267.3,CASH,5,20,Y,0,20.10.2023,Yes
+FF20195,McDonald's,Wrap,Mumbai,17,female,Swiggy,breakfast,NON-VEG,299,15,3,762.45,Cash,4,60,yes,150,16.4.2022,N
+FF20196,Box8,Momos,Mumbai, 31,Male,Zomato,Evening Snack,Non-Veg,199,10%,4,716.4,Debit Card,3,45,no,100,2020-03-10,N
+FF20197,Domino's,Momos,Chennai,24.0,Female,Takeaway,lunch,Veg,99,0,1,99.0,UPI,4,45 min,yes,0,05/09/2021,yes
+FF20198,Box8,Pizza,Ahmedabad, 50,male,Zomato,breakfast,Vegan,Rs.499,30%,4,1397.2,wallet,NA,30,Yes,50,5/16/2019,NO
+FF20199,McDonald's,Wrap,Chennai, 30,F,zomato,Dinner,vegan,199.0,20%,3,477.6,Wallet,NA,40,N,0,8-1-2021,NO
