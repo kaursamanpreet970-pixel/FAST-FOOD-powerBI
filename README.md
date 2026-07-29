@@ -102,7 +102,7 @@ The report is built across **3 pages**:
 - Revenue by Chain (bar), Orders by Food Type (bar), Veg vs Non-Veg Split (pie)
 - Slicers: Chain, City, Order Date Range
 
->  📸![PAGE 1](<cp2 fast food POWER BI_page-0001.jpg>)
+>  📸![PAGE 1](Screenshot%202026-07-28%20224040.png)
 
 **Page 2 — Customer and Order Behaviour**
 - Order Mode Distribution (donut), Orders by Time Slot (column), Gender Split by Time Slot (100% stacked bar), Coupon Impact on Bill (column)
