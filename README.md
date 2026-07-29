@@ -26,7 +26,7 @@ Fast food chains generate large volumes of order data daily, but raw exports are
 ## 🗂 Dataset
 | Detail | Value |
 |---|---|
-| File | `FastFood_Data_Raw.csv` |
+| File | `FastFood_Data_Raw.csv`|
 | Records | 200 rows |
 | Columns | 20 |
 | Time Range | Jan 2019 – Dec 2024 |
