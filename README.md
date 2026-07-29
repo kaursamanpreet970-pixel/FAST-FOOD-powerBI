@@ -64,7 +64,7 @@ Fast food chains generate large volumes of order data daily, but raw exports are
 8. Configured 10 slicers, with primary filters (Chain, Date Range) synced across all pages
 
 ### Key DAX Measures
-```DAX
+DAX
 Total Orders      = COUNTROWS(FastFood_Data)
 Total Revenue     = SUM(FastFood_Data[Total_Bill_INR])
 Avg Bill          = AVERAGE(FastFood_Data[Total_Bill_INR])
@@ -77,7 +77,7 @@ Veg Share         = DIVIDE(CALCULATE([Total Revenue], FastFood_Data[Veg_NonVeg]=
 Delivery Cat (Calculated Column) =
 IF(FastFood_Data[Delivery_Time_Min] <= 30, "Fast",
    IF(FastFood_Data[Delivery_Time_Min] <= 45, "Average", "Slow"))
-```
+
 
 ---
 
@@ -102,26 +102,24 @@ The report is built across **3 pages**:
 - Revenue by Chain (bar), Orders by Food Type (bar), Veg vs Non-Veg Split (pie)
 - Slicers: Chain, City, Order Date Range
 
->  📸![PAGE 1](Screenshot%202026-07-28%20224040.png)
+>  📸![PAGE 1](cp2%20fast%20food%20POWER%20BI_page-0001.jpg)
 
 **Page 2 — Customer and Order Behaviour**
 - Order Mode Distribution (donut), Orders by Time Slot (column), Gender Split by Time Slot (100% stacked bar), Coupon Impact on Bill (column)
 - Slicers: Order Mode, Veg/Non-Veg, Coupon Used, Gender
 
-> 📸 ![PAGE 2](<cp2 fast food POWER BI_page-0002.jpg>)
+> 📸 ![PAGE 2](cp2%20fast%20food%20POWER%20BI_page-0002.jpg)
 
 **Page 3 — Delivery, Rating and Geography**
 - Revenue by City (treemap), Average Rating by Chain (column), Average Delivery Time by Chain (bar), Order Trend by Month (line), Delivery Target % gauge
 - Slicers: Time Slot, Delivery Category, Payment Mode, Food Item Type
 
-> 📸 ![PAGE3](<cp2 fast food POWER BI_page-0003.jpg>)
+> 📸 ![PAGE3](cp2%20fast%20food%20POWER%20BI_page-0003.jpg)
 
 
 ---
 
-## ▶️ How to Run this Project
-
-Open `[POWER BI](<cp2 fast food POWER BI.pbix>)` in Power BI Desktop
+Open IN [POWER BI](<cp2 fast food POWER BI.pbix>)
 
 
 ---
