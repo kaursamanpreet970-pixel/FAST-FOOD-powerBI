@@ -116,12 +116,6 @@ The report is built across **3 pages**:
 
 > 📸 ![PAGE3](cp2%20fast%20food%20POWER%20BI_page-0003.jpg)
 
-
----
-
-Open IN [POWER BI](<cp2 fast food POWER BI.pbix>)
-
-
 ---
 
 ## ✅ Results & Conclusion
